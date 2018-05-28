@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="zelda" size="50.000000 34.707447" />
+    <ImageTarget name="myHead" size="50.000000 37.500000" />
+    <ImageTarget name="fullBodyHan" size="50.000000 100.777779" />
+    <ImageTarget name="fullBodyCasper" size="50.000000 101.276596" />
+    <ImageTarget name="fullBodyJarno" size="50.000000 82.191780" />
+    <ImageTarget name="magicCard" size="50.000000 68.388885" />
+    <ImageTarget name="h-database" size="50.000000 50.000000" />
+  </Tracking>
+</QCARConfig>
