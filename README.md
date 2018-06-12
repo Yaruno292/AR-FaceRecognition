@@ -9,6 +9,7 @@ Team erh?
 Handige app die namen en informatie van mensen voor je onthoud in Augmented Reality.
 
 # Portfolio
+* [Documentatie](https://drive.google.com/open?id=1rR6CVHPigZxWsn1DZre7KjLhQJSNWsTu)
 * [Onderzoek]()
 * [Ontwerp]()
 * [Testrapportage]()
